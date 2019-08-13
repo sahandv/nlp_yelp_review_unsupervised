@@ -1,0 +1,6 @@
+
+results/
+
+notebooks/train_dict_lg
+
+*.pkl
